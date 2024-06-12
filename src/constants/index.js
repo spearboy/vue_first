@@ -13,7 +13,7 @@ export const headNavs = [
   },
   {
     title: 'portfolio',
-    url: '#portfolio'
+    url: '#port'
   },
   {
     title: 'contact',
